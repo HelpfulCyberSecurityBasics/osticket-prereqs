@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Virtual Machine Setup:
+1. Virtual Machine Setup:
 
 - Create a virtual machine in Microsoft Azure.
 - Configure the VM with Windows 10 Pro, 2 vCPUs, and 8 GB RAM.
@@ -41,11 +41,11 @@ Virtual Machine Setup:
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="616" height="367" alt="Screenshot 2026-02-01 at 10 22 54 AM" src="https://github.com/user-attachments/assets/9520adb6-d672-4c5a-87ce-22a32a6758b1" />
+
 </p>
 <p>
-OS Ticket Installation Files and IIS/PHP Setup:
+2. OS Ticket Installation Files and IIS/PHP Setup:
 
 - Connect to the VM using Remote Desktop Connection.
 - Download osTicket installation files from the provided GitHub link.
