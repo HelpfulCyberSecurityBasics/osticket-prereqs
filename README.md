@@ -28,11 +28,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img width="1788" height="968" alt="image" src="https://github.com/user-attachments/assets/116e0179-aaa0-417d-afd2-c6e6fafc7712" />
+<img width="940" height="396" alt="Screenshot 2026-02-01 at 10 18 03 AM" src="https://github.com/user-attachments/assets/8b72b2a4-e413-4f74-823a-fa02638a7c11" />
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Virtual Machine Setup:
+
+- Create a virtual machine in Microsoft Azure.
+- Configure the VM with Windows 10 Pro, 2 vCPUs, and 8 GB RAM.
+- Set up username (NX user) and password (osTicket password one!) for the VM.
+
 </p>
 <br />
 
