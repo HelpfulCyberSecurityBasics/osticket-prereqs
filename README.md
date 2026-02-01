@@ -28,7 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-  1. Virtual Machine Setup:
+  1. Virtual Machine (VM) Setup:
 
 - Create a virtual machine (VM) in Microsoft Azure.
 - Configure the VM with Windows 10 Pro, 2 vCPUs, and 8 GB RAM.
