@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,16 +19,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Microsoft Azure account: Used to create and manage the virtual machine where osTicket will be installed.
+- Virtual Machine (VM): A Windows 10 Pro VM with at least 2 vCPUs and 8 GB of RAM is required to host osTicket.
+- Remote Desktop Connection: Essential for accessing and managing the virtual machine.
+- osTicket Installation Files: These are provided as a downloadable ZIP file, containing all necessary components and dependencies for osTicket.
+- Internet Access within VM: Needed to download the osTicket installation files and other necessary software.
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1788" height="968" alt="image" src="https://github.com/user-attachments/assets/116e0179-aaa0-417d-afd2-c6e6fafc7712" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
