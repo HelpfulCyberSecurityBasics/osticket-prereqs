@@ -28,27 +28,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+  1. Virtual Machine Setup:
+
+- Create a virtual machine (VM) in Microsoft Azure.
+- Configure the VM with Windows 10 Pro, 2 vCPUs, and 8 GB RAM.
+- Set up username and passwordfor the VM.
+
 <img width="940" height="396" alt="Screenshot 2026-02-01 at 10 18 03 AM" src="https://github.com/user-attachments/assets/8b72b2a4-e413-4f74-823a-fa02638a7c11" />
 
 </p>
 <p>
-1. Virtual Machine Setup:
-
-- Create a virtual machine in Microsoft Azure.
-- Configure the VM with Windows 10 Pro, 2 vCPUs, and 8 GB RAM.
-- Set up username (NX user) and password (osTicket password one!) for the VM.
 
 </p>
 <br />
 
-<p><img width="616" height="367" alt="Screenshot 2026-02-01 at 10 22 54 AM" src="https://github.com/user-attachments/assets/9520adb6-d672-4c5a-87ce-22a32a6758b1" />
-<img width="774" height="419" alt="Screenshot 2026-02-01 at 10 25 22 AM" src="https://github.com/user-attachments/assets/480dea54-63b9-4557-b043-90718d8d25c7" />
-<img width="756" height="417" alt="Screenshot 2026-02-01 at 10 27 01 AM" src="https://github.com/user-attachments/assets/dab8e55b-8c31-4871-b5af-9bbbd35e4052" />
-
-
-</p>
 <p>
-2. OS Ticket Installation Files and IIS/PHP Setup:
+  2. OS Ticket Installation Files and IIS/PHP Setup:
 
 - Connect to the VM using Remote Desktop Connection.
 - Download osTicket installation files from the provided GitHub link.
@@ -58,14 +53,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a PHP folder in the C: drive and extract the PHP zip folder into it.
 - Install VC Redist and MySQL.
 - Configure MySQL instance and set root password.
+<img width="616" height="367" alt="Screenshot 2026-02-01 at 10 22 54 AM" src="https://github.com/user-attachments/assets/9520adb6-d672-4c5a-87ce-22a32a6758b1" />
+<img width="774" height="419" alt="Screenshot 2026-02-01 at 10 25 22 AM" src="https://github.com/user-attachments/assets/480dea54-63b9-4557-b043-90718d8d25c7" />
+<img width="756" height="417" alt="Screenshot 2026-02-01 at 10 27 01 AM" src="https://github.com/user-attachments/assets/dab8e55b-8c31-4871-b5af-9bbbd35e4052" />
+
+
+</p>
+<p>
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-3. OS Ticket Configuration and Database Setup:
+  3. OS Ticket Configuration and Database Setup:
 
 - Register the new PHP version in IIS manager.
 - Stop and start the IIS server to restart it.
@@ -77,4 +77,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create a new database named "osTicket" in HeidiSQL.
 - Complete the installation by entering the database details (osTicket, root, root) and clicking "Install Now".
 </p>
+<img width="870" height="452" alt="Screenshot 2026-02-01 at 10 31 14 AM" src="https://github.com/user-attachments/assets/5aefa8b2-a832-4b9d-9016-d164d6696193" />
+<img width="766" height="421" alt="Screenshot 2026-02-01 at 10 34 04 AM" src="https://github.com/user-attachments/assets/54a73d3e-c4fb-48f1-9e8d-2a4f61bbd6ef" />
+<img width="748" height="404" alt="Screenshot 2026-02-01 at 10 33 07 AM" src="https://github.com/user-attachments/assets/5759acc4-70df-4d76-a938-7a06e8c521ae" />
+
+</p>
+<p>
+
 <br />
